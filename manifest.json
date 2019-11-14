@@ -1,0 +1,21 @@
+{
+	"entries": [{
+			"name": "file1.csv"
+		},
+		{
+			"name": "file2.csv"
+		},
+		{
+			"name": "file3.csv"
+		},
+		{
+			"name": "file4.csv"
+		},
+		{
+			"name": "file5.csv"
+		},
+		{
+			"name": "test.txt"
+		}
+	]
+}
